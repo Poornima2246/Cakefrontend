@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Cakefrontend/static/css/main.583b8ba6.css",
+    "main.js": "/Cakefrontend/static/js/main.b1411e20.js",
+    "static/js/453.d8846cae.chunk.js": "/Cakefrontend/static/js/453.d8846cae.chunk.js",
+    "static/media/h6.png": "/Cakefrontend/static/media/h6.4fa327d03c7fe2da6935.png",
+    "static/media/cake.png": "/Cakefrontend/static/media/cake.9aed6a27b3369af20cac.png",
+    "static/media/cck.png": "/Cakefrontend/static/media/cck.f36469162c4b8f3adb4d.png",
+    "static/media/f4.png": "/Cakefrontend/static/media/f4.87fa1f4a00478c70fe89.png",
+    "static/media/f1.png": "/Cakefrontend/static/media/f1.0cc958393227220d8803.png",
+    "static/media/f2.png": "/Cakefrontend/static/media/f2.e4f5079b986a7afabb8b.png",
+    "static/media/f3.png": "/Cakefrontend/static/media/f3.dfbc0a70019f83a907fe.png",
+    "index.html": "/Cakefrontend/index.html",
+    "main.583b8ba6.css.map": "/Cakefrontend/static/css/main.583b8ba6.css.map",
+    "main.b1411e20.js.map": "/Cakefrontend/static/js/main.b1411e20.js.map",
+    "453.d8846cae.chunk.js.map": "/Cakefrontend/static/js/453.d8846cae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.583b8ba6.css",
+    "static/js/main.b1411e20.js"
+  ]
+}
