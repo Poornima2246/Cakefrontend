@@ -2,7 +2,7 @@
   "name": "foodcort",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Poornima2246.github.io/Cakee",
+  "homepage": "https://Poornima2246.github.io/Cakefrontend",
   "dependencies": {
     "@tanstack/react-query": "^5.74.4",
     "@testing-library/jest-dom": "^5.17.0",
